@@ -24,7 +24,7 @@ filters and displays only bouts that have <b>not</b> gone the distance.</blockqu
 
 ## Suggestions, Disclaimers and Contact
 <ul>
-    <li>The author may include business logic to check if input string matches a boxer id's pattern and then dispatches that a part of the script that scrapes for fight finishes from the site: <a href='https://boxrec.com/'>boxrec</a></li>
+    <li>The author may include business logic to check if input string matches a boxer id's pattern and then dispatches that to a part of the script that scrapes for fight finishes from the site: <a href='https://boxrec.com/'>boxrec</a></li>
     <li>Obviously, the author is not the maintainer of <a href='http://ufcstats.com/'>ufcstats</a> and cannot guarantee this script's continued functionality in the future.</li>
     <li>Feel free to message me on <a href='https://www.linkedin.com/in/noorudin-buraleh-2243331a3/'>LinkedIn</a> regarding opportunities!</li>
 </ul>
