@@ -11,7 +11,7 @@ filters and displays only bouts that have <b>not</b> gone the distance.</blockqu
 
 ## User Guide
 <ol>
-    <li>Create a local virtual environment in your favourite way: Buraleh has done the following: <img src='./images/01_create_venv.png' alt='creating a virutal environment'></li><br>
+    <li>Create a local virtual environment in your favourite way: Buraleh has done the following:<br><img src='./images/01_create_venv.png' alt='creating a virutal environment'></li><br>
     <li>Activate the virtual environment using your command of choice or follow along with: <img src='./images/02_activate.png' alt='activate the virtual environment'></li><br>
     <li>You should see the leftmost value in parenthesis change from 'base' to '.venv'. We can now safely install the requirements<img src="./images/03_inside_virtual_env.png" alt="inside the virtual environment"></li><br>
     <li>Simply type in the following:<br><img src="./images/04_installing_requirements.png"></li><br>
