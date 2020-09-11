@@ -13,7 +13,7 @@ filters and displays only bouts that have <b>not</b> gone the distance.</blockqu
 <ol>
     <li>Create a local virtual environment in your favourite way: Buraleh has done the following:<br><img src='./images/01_create_venv.png' alt='creating a virutal environment'></li><br>
     <li>Activate the virtual environment using your command of choice or follow along with: <img src='./images/02_activate.png' alt='activate the virtual environment'></li><br>
-    <li>You should see the leftmost value in parenthesis change from 'base' to '.venv'. We can now safely install the requirements<img src="./images/03_inside_virtual_env.png" alt="inside the virtual environment"></li><br>
+    <li>You should see the leftmost value in parenthesis change from 'base' to '.venv'. We can now safely install the requirements: <br><img src="./images/03_inside_virtual_env.png" alt="inside the virtual environment"></li><br>
     <li>Simply type in the following:<br><img src="./images/04_installing_requirements.png"></li><br>
     <li>Fire up jupyter notebook or jupyter lab:<br><img src='./images/04b_jupyter_lab.png'></li><br>
     <li>Open up a Python3 notebook and use the %run magic command to run the Python script: <img src='./images/05_run_script.png'></li><br>
